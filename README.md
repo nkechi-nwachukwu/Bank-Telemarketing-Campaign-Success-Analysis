@@ -5,6 +5,13 @@ This project analyzes a bank telemarketing campaign dataset to identify key driv
 
 ---
 
+## 📈 Dashboard Preview
+<img width="1016" height="591" alt="Bank Campaign Overview Page" src="https://github.com/user-attachments/assets/d045913b-ccf6-4c52-9fbc-1cdbcde3c946" />
+<img width="1009" height="584" alt="Bank Campaign Cust  Demographic page" src="https://github.com/user-attachments/assets/ada6eac9-0830-4846-825b-f6d0dd667ce4" />
+<img width="1011" height="582" alt="Bank Campaign Conversion Rate Page" src="https://github.com/user-attachments/assets/53002211-acf6-49bd-8391-b0e659cf9c67" />
+
+---
+
 ## 🎯 Business Problem
 Banks often run telemarketing campaigns to promote term deposits, but conversion rates are typically low.  
 This project aims to answer:
@@ -39,12 +46,13 @@ This project aims to answer:
 🔹 First contact was most effective, with diminishing returns from repeated calls
 
 ---
-
-## 📈 Dashboard Preview
-<img width="1016" height="591" alt="Bank Campaign Overview Page" src="https://github.com/user-attachments/assets/d045913b-ccf6-4c52-9fbc-1cdbcde3c946" />
-<img width="1009" height="584" alt="Bank Campaign Cust  Demographic page" src="https://github.com/user-attachments/assets/ada6eac9-0830-4846-825b-f6d0dd667ce4" />
-<img width="1011" height="582" alt="Bank Campaign Conversion Rate Page" src="https://github.com/user-attachments/assets/53002211-acf6-49bd-8391-b0e659cf9c67" />
-
+## 💡Recommendations:
+- Target high-performing customer segments for better ROI 
+- Optimize first-contact strategy with better scripts and personalization
+- Limit contacts to 2-3 attempts to avoid diminishing returns
+- Focus on more effective channels (e.g. cellular/digital)
+- Align campaign with high-performing periods and favorable economic conditions
+- Use data-driven rules to optimize contact frequency and timing
 
 ---
 
