@@ -106,28 +106,40 @@ The analysis was designed around the following questions:
 
 The project follows a structured business analytics workflow:
 
+
 Raw Campaign Data
         ↓
+        
 Data Profiling
         ↓
+        
 Data Cleaning & Validation
         ↓
+        
 Exploratory Analysis
         ↓
+        
 KPI Development
         ↓
+        
 Customer & Campaign Analysis
         ↓
+        
 Conversion Analysis
         ↓
+        
 Segmentation
         ↓
+        
 Power BI Data Model
         ↓
+        
 Interactive Dashboard
         ↓
+        
 Business Insights
         ↓
+        
 Targeting & Campaign Recommendations
 
 The analysis combines descriptive analytics with comparative customer and campaign analysis.
