@@ -6,9 +6,7 @@ This project analyzes a bank telemarketing campaign dataset to identify key driv
 ---
 
 ## 📈 Dashboard Preview
-<img width="1016" height="591" alt="Bank Campaign Overview Page" src="https://github.com/user-attachments/assets/d045913b-ccf6-4c52-9fbc-1cdbcde3c946" />
-<img width="1009" height="584" alt="Bank Campaign Cust  Demographic page" src="https://github.com/user-attachments/assets/ada6eac9-0830-4846-825b-f6d0dd667ce4" />
-<img width="1011" height="582" alt="Bank Campaign Conversion Rate Page" src="https://github.com/user-attachments/assets/53002211-acf6-49bd-8391-b0e659cf9c67" />
+<img width="1800" height="1200" alt="Bank Telemarketing Mockup" src="https://github.com/user-attachments/assets/eb66db6b-2aa3-41cf-a5f7-6583557acb1f" />
 
 ---
 
@@ -61,6 +59,11 @@ This analysis identifies key drivers of customer conversion in bank telemarketin
 
 ---
 
-## 📌 Author
-**Nkechi Nwachukwu**  
-Data Analyst | Excel • SQL • Power BI
+## 👤 Author
+**Nkechi Nwachukwu Business Analyst | Data & Operations Analytics**
+
+Portfolio: https://dorothy-data-portfolio.lovable.app
+
+GitHub: https://github.com/nkechi-nwachukwu
+
+LinkedIn: https://linkedin.com/in/nkechi-nwachukwu-82ba911bb
