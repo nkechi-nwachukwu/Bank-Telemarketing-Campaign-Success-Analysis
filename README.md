@@ -5,21 +5,33 @@ Power BI | Customer Analytics | Campaign Performance | Conversion Analysis
 This project analyzes the performance of a bank's telemarketing campaign to understand which customer characteristics, campaign interactions, contact strategies, and historical engagement patterns are associated with successful subscription outcomes.
 
 The analysis was developed as a Power BI business intelligence solution, transforming customer and campaign-level data into an interactive analytical dashboard.
+
 The project focuses on moving beyond simple campaign reporting to answer a more important business question:
-What customer and campaign characteristics are associated with higher conversion, and how can these insights support more targeted campaign decisions?
+
+**What customer and campaign characteristics are associated with higher conversion, and how can these insights support more targeted campaign decisions?**
 
 The analysis examines:
 
 Customer demographics
+
 Customer financial and product-related characteristics
+
 Campaign contact history
+
 Communication channels
+
 Contact timing
+
 Number of campaign contacts
+
 Previous campaign outcomes
+
 Subscription outcomes
+
 Customer segments
+
 Conversion performance
+
 Campaign effectiveness
 
 The final dashboard provides a consolidated view of campaign performance and customer behavior, allowing users to explore conversion patterns across different customer and campaign dimensions.
