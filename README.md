@@ -12,27 +12,17 @@ The project focuses on moving beyond simple campaign reporting to answer a more 
 
 The analysis examines:
 
-Customer demographics
-
-Customer financial and product-related characteristics
-
-Campaign contact history
-
-Communication channels
-
-Contact timing
-
-Number of campaign contacts
-
-Previous campaign outcomes
-
-Subscription outcomes
-
-Customer segments
-
-Conversion performance
-
-Campaign effectiveness
+- Customer demographics
+- Customer financial and product-related characteristics
+- Campaign contact history
+- Communication channels
+- Contact timing
+- Number of campaign contacts
+- Previous campaign outcomes
+- Subscription outcomes
+- Customer segments
+- Conversion performance
+- Campaign effectiveness
 
 The final dashboard provides a consolidated view of campaign performance and customer behavior, allowing users to explore conversion patterns across different customer and campaign dimensions.
 
